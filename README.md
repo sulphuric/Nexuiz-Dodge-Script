@@ -1,0 +1,2 @@
+This is just a simple script to auto dodge in Nexuiz. While one may not really be able to dodge, the auto script can be really fun
+A loop is created using alias and menu_cmd rpn commands and were bind to start or stop
