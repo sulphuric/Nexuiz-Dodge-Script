@@ -5,4 +5,4 @@ While one may not be able to dodge perfectly, the auto script can be fun.
 Setup: Create an autoexec.cfg file in Nexuiz/data folder under windows or .Nexuiz/data under linux. 
 Now copy and paste the dodge script directly into the autoexec.cfg file or simply create dodge.cfg and 
 call it from autoexec adding the line "exec dodge.cfg". 
-The autoexec will execute everytime Nexuiz client starts and you are good to go.
+The autoexec will execute everytime Nexuiz client starts and you are good to go. Once you start nexuiz client press v to start dodging and press b to stop.
